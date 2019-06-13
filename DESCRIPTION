@@ -1,0 +1,14 @@
+Package: ChAnchoS
+Title: Chileno Anchoveta y Sardina
+Version: 0.0.0.9000
+Authors@R: person("Qi", "Lee", email = "leeqi@ucsb.edu", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.6.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: foreach,
+         doParallel,
+         ggplot2,
+         here
+RoxygenNote: 6.1.1
