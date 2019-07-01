@@ -17,7 +17,7 @@ Named list of "tru" and "est" values
 }
 \description{
 The part in quotations becomes the list name.
-Created By Steven Martell
+Created By (Steven Martell){https://www.admb-project.org/tools/r/reading-report-files-using-r}
 }
 \examples{
 \dontrun{

@@ -4,7 +4,7 @@
 #' Para leer los archivos reportes de ADMB
 #' 
 #' The part in quotations becomes the list name.
-#' Created By Steven Martell
+#' Created By (Steven Martell){https://www.admb-project.org/tools/r/reading-report-files-using-r}
 #'
 #' @param fn El filepath para el archivo de reporte
 #' 
