@@ -4,7 +4,7 @@
 #' @param repfiles Una lista de \code{\link{SSsummarize}}
 #' @param quantname El nombre de la cantidad para buscar en el archivo report
 #' 
-#' @return List of tru and est values
+#' @return List of `tru` and `est` values
 #'
 #' @export
 #' @examples

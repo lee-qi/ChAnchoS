@@ -13,7 +13,7 @@ SS_extract_vals(repfiles, quantname)
 \item{quantname}{El nombre de la cantidad para buscar en el archivo report}
 }
 \value{
-List of tru and est values
+List of `tru` and `est` values
 }
 \description{
 Extract values from SS report files
